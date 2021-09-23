@@ -11,11 +11,18 @@
   <h3 id="byline">By Sergio Gonzalez </h3>
    <img 
             src=https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png
-
+        <h2></h2>
         
         <p>The National Basketball Association is a professional basketball league in North America.
 The league is composed of 30 teams and is one of the four major professional sports leagues in the United States and Canada. 
 It is the premier men's professional basketball league in the world.</p>
+    <ul>
+      <li>Current champion: Milwaukee Bucks</i>
+  <li>Commissioner: Adam Silver</i>
+<li>Founded: June 6, 1946, New York, NY</li>
+<li>Headquarters: New York, NY</li>
+<a href=https://en.wikipedia.org/wiki/National_Basketball_Association>click to learn more </a>
+</ul>
   <h2> Origin </h2>
   <p> The Basketball Association of America was founded in 1946 by owners of the major ice hockey arenas in the Northeastern and Midwestern United States and Canada. On November 1, 1946, in Toronto, Ontario, Canada, the Toronto Huskies hosted the New York Knickerbockers at Maple Leaf Gardens, in a game the NBA now refers to as the first game played in NBA history.[9] The first basket was made by Ossie Schectman of the Knickerbockers. Although there had been earlier attempts at professional basketball leagues, including the American Basketball League and the NBL, the BAA was the first league to attempt to play primarily in large arenas in major cities. During its early years, the quality of play in the BAA was not significantly better than in competing leagues or among leading independent clubs such as the Harlem Globetrotters. For instance, the 1948 ABL finalist Baltimore Bullets moved to the BAA and won that league's 1948 title, and the 1948 NBL champion Minneapolis Lakers won the 1949 BAA title. Prior to the 1948–49 season, however, NBL teams from Fort Wayne, Indianapolis, Minneapolis, and Rochester jumped to the BAA, which established the BAA as the league of choice for collegians looking to turn professional.[10]
 
