@@ -6,13 +6,12 @@
        <meta name="author" content="CGHS" >
        <meta name="keywords" content=" NBA " >
 </head>
-<body>
+<body>     
   <h1> NBA </h1>
   <h3 id="byline">By Sergio Gonzalez </h3>
    <img 
             src=https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png
         <h2></h2>
-        
         <p>The National Basketball Association is a professional basketball league in North America.
 The league is composed of 30 teams and is one of the four major professional sports leagues in the United States and Canada. 
 It is the premier men's professional basketball league in the world.</p>
