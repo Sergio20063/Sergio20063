@@ -6,7 +6,7 @@
        <meta name="author" content="CGHS" >
        <meta name="keywords" content=" NBA " >
 </head>
-<body style="background-color:#FF5733;">
+<body>
   <h1> NBA </h1>
   <h3 id="byline">By Sergio Gonzalez </h3>
    <img 
